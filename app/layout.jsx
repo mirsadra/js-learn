@@ -7,7 +7,13 @@ export const metadata = {
 
 const layout = () => {
   return (
-    <div>layout</div>
+    <html lang='en'>
+        <body>
+            <div>
+
+            </div>
+        </body>
+    </html>
   )
 }
 
