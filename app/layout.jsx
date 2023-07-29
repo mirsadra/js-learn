@@ -6,7 +6,7 @@ export const metadata = {
     description: "Discover & Share Promots"
 }
 
-const layout = () => {
+const RootLayout = () => {
   return (
     <html lang='en'>
         <body>
@@ -23,4 +23,4 @@ const layout = () => {
   )
 }
 
-export default layout
+export default RootLayout
