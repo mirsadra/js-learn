@@ -9,7 +9,7 @@ const layout = () => {
   return (
     <html lang='en'>
         <body>
-            <div>
+            <div className='main'>
 
             </div>
         </body>
