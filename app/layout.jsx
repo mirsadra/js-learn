@@ -1,4 +1,9 @@
-import '@/styles/global.css'
+import '@/styles/global.css';
+
+export const metadata = {
+    title: "Promptopia",
+    description: "Discover & Share Promots"
+}
 
 const layout = () => {
   return (
