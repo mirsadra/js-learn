@@ -10,7 +10,7 @@ const layout = () => {
     <html lang='en'>
         <body>
             <div className='main'>
-
+                <div className='gradient' />
             </div>
         </body>
     </html>
